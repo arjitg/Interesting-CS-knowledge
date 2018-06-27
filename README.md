@@ -9,6 +9,11 @@ I have made this repo to keep a list of all new commands, tricks, etc. that I en
 2. Goto a mobile site using F12 -> Ctrl-shift-M. Best example is instagram.
 
 
-# A list of notable CP questions solved.
+# A list of notable CP questions.
 The list is in no way exhaustive and just consists of questions that I could compile from memory. 
 1. https://www.hackerrank.com/challenges/new-year-chaos/problem
+2. https://practice.geeksforgeeks.org/problems/geek-and-strings/0
+3. https://www.interviewbit.com/problems/palindrome-list/
+
+# Interesting projects to look at
+1. https://github.com/google/gif-for-cli/blob/master/README.md
