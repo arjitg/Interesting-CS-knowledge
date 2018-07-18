@@ -1,5 +1,5 @@
 # Interesting-CS-knowledge
-I have made this repo to keep a list of all new commands, tricks, etc. that I encounter during my learning of new computer technologies
+In different files, I list various small pieces of info I encounter during my learning of new computer technologies.
 
 # Table of contents
 - [UNIX Tricks](#UNIX tricks)
