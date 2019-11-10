@@ -12,7 +12,7 @@ In different files, I list various small pieces of info I encounter during my le
 
 # Chrome tricks
 1. Alt-d-Enter shortcut to duplicate a tab
-2. Goto a mobile site using F12 -> Ctrl-shift-M. Best example is instagram.
+2. Goto a mobile site using F12 -> Ctrl-shift-M. Best example is instagram. You can now slide into DMs without using the app.
 
 
 # A list of notable CP questions.
