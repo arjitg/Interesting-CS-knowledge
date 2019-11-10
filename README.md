@@ -8,7 +8,7 @@ In different files, I list various small pieces of info I encounter during my le
 - [Interesting projects to look at]
 
 # UNIX tricks
-1.Command: du -sk name    Function: gives you the size of the 'name' directory
+1.Command: du -sk <directory_name>    Function: gives you the size of the mentioned directory
 
 # Chrome tricks
 1. Alt-d-Enter shortcut to duplicate a tab
